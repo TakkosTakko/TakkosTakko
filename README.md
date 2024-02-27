@@ -1,5 +1,5 @@
 # 💫 About Me:
-i´m currenty working on a FiveM Anticheat<br>and FiveM Development
+yo, just chilling lol
 
 
 ## 🌐 Socials:
