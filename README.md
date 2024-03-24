@@ -1,5 +1,11 @@
 # 💫 About Me:
 yo, just chilling lol
+# 💻 Projects i worked/work on:
+ - g-dev.de / FiveM Scripting Service
+ - rivalstudios / FiveM Scripting Service
+ - g-boost.de / discord boost reselling
+ - g-bots.de / discord bot development
+ - XeonRP - FiveM Roleplay server / dead since 2023
 
 
 ## 🌐 Socials:
