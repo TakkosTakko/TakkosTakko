@@ -2,8 +2,7 @@
 yo, just chilling lol
 # 💻 Projects i worked/work on:
  - #1 FiveM, Roblox, CS:GO and LUA Obfuscator / zeroSec / discord.gg/zerosec
- - rivalstudios / FiveM Scripting Service
- - XeonRP - FiveM Roleplay server / dead since 2023
+ - XeonRP - FiveM Roleplay server / REWORK IN COMMING / discord.gg/xeonrp
 
 
 ## 🌐 Socials:
