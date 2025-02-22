@@ -1,8 +1,8 @@
 # 💫 About Me:
 yo, just chilling lol
 # 💻 Projects i worked/work on:
- - #1 FiveM, Roblox, CS:GO and LUA Obfuscator / zeroSec / discord.gg/zerosec
- - XeonRP - FiveM Roleplay server / REWORK IN COMMING / discord.gg/xeonrp
+ - #1 FiveM, Roblox, CS:GO and LUA Obfuscator / LuaSec / discord.gg/luasec / luasec.de
+
 
 
 ## 🌐 Socials:
